@@ -1,0 +1,81 @@
+{
+    "data": {
+        "title": "JavaScript Flashcards",
+        "cards": [
+            {
+                "question": "What are the three notes of a G major chord?",
+                "hint": "Root third and fifth!",
+                "answer": "G B D"
+            },
+            {
+                "question": "What band wrote the song 'Scar Tissue'?",
+                "hint": "The band name is also a spicy snack",
+                "answer": "The Red Hot Chili Peppers"
+            },
+            {
+                "question": "What note is a perfect 5th above C?",
+                "hint": "Just count!",
+                "answer": "G"
+            },
+            {
+                "question": "Who were the two main composers of the classical period?",
+                "answer": "Haydn and Mozart"
+            },
+            {
+                "question": "What composer became more and more deaf as they got older?",
+                "hint": "Think romantic period!",
+                "answer": "Beethoven"
+            },
+            {
+                "question": "What Miles Davis album started the modal jazz movement?",
+                "hint": "The color of the sky",
+                "answer": "Kind of Blue"
+            },
+            {
+                "question": "What are the 4 notes that create an Ab major7 chord?",
+                "hint": "Root third fifth and major 7th",
+                "answer": "Ab C Eb G"
+            },
+            {
+                "question": "Who wrote the piano piece titled \"Clair de Lune\"?",
+                "hint": "Initals are CD",
+                "answer": "French composer Claude Debussy"
+            },
+            {
+                "question": "What solo instrument does Gustav Mahler's 5th symphony start with?",
+                "hint": "Brass!",
+                "answer": "Trumpet"
+            },
+            {
+                "question": "How many symphonies did Beethoven write?",
+                "hint": "It's more then 5!",
+                "answer": "9"
+            },
+            {
+                "question": "What key is J.S Bach's 6th cello suite in?",
+                "hint": "It's not a flat key",
+                "answer": "D major"
+            },
+            {
+                "question": "What musician was popular during the early jazz era and wrote the songs \"Jeepers Creepers\" and \"What a Wonderful World\"?",
+                "hint": "Satchmo!",
+                "answer": "Louis Armstrong"
+            },
+            {
+                "question": "What are the notes in the B mixolydian mode?",
+                "hint": "Major scale with a flat 7th",
+                "answer": "B C# D# E F# G# A"
+            },
+            {
+                "question": "What style of jazz was Charlie Parker a master at?",
+                "hint": "It starts with a \"B\"",
+                "answer": "Bebop"
+            },
+            {
+                "question": "What would a I V Vi IV progression be in the key of F major?",
+                "hint": "The second chord is C major",
+                "answer": "F major, C major, d minor, Bb Major"
+            }
+        ]
+    }
+}
